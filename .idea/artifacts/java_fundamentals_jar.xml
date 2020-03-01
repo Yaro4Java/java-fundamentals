@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-fundamentals:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_fundamentals_jar</output-path>
+    <root id="archive" name="java-fundamentals.jar">
+      <element id="module-output" name="java-fundamentals" />
+    </root>
+  </artifact>
+</component>
